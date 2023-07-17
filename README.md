@@ -1,5 +1,5 @@
 # Data-Analysis-With-python
-This repo contains all the labs of the course which is available on Coursera, by the same name. 
+This repo contains all the labs of the course which is available on Coursera, by the same name.  
 
 ## Week 1 - Importing Datasets
 I learned how to understand data and how to use the libraries in Python such as Pandas to import data from multiple sources(csv,xlsx etc). 
